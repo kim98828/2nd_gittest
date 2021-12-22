@@ -9,6 +9,8 @@ int main()
 	float area = 0.0f;
 
 	//삼각형 구하기 입니다.
+	//안녕하세요
+	
 
 	cout << "삼각형의 높이를 입력해 주세요" << endl;
 	cin >> height;
